@@ -15,9 +15,6 @@ this is where things like images, css, js and bootstrap live
 includes
 this is php templating material. Example, the master page
 
-in-classPHPActivities
-pretty self-explanatory, any php files we want to run on the server but that aren’t a part of the system should go here.
-
 documentation
 tutorials on setting up workspace
 ER Diagram
