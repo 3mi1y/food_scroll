@@ -1,0 +1,216 @@
+
+/*body {
+    background-image: url("MainPageBackground.jpg");
+		width: 100%
+		height: 100%
+}
+*/
+body {
+  margin: 0px;
+	margin-top: 100px;
+  background-color: #FFFFE0;
+  font-family: 'Quicksand', sans-serif;
+	background-image: url("../images/FoodScrollBackground.jpg");
+	background-size: 100% 850px;
+  background-attachment: fixed;
+
+	}
+	
+h1{
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+h2{
+  font-size: 50px;
+  text-align: left;
+}
+
+h3 {
+  background-color: grey;
+}
+
+h4{
+  margin-top: 40px;
+  font-size: 60px;
+  text-align: center;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #ffffcc;
+    font-family: verdana;
+}
+
+
+th {
+    height: 50px;
+    
+}
+
+
+.btn-success{
+  margin-bottom: 100px;
+  margin-top: 20px;
+
+}
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+	
+p{
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 40px;
+  /*border-style: solid;
+  border-width: 1px;*/
+  margin-bottom: 50px;
+}
+
+
+li{
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+.carousel-indicators {
+  bottom:400px;
+}
+
+.carousel-control {
+    z-index: 10;
+    top: 2%;
+    width: 30px; // no more gray thing
+    font-family: 'Arial', Arial, sans-serif;
+}
+/*.carousel-control.left,
+.carousel-control.right { background: none }
+*/
+.carousel-inner > .item > img {
+  width:1000px;
+  height:450px;
+  margin-bottom: 0px;
+  
+}
+
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/*#radio-form{
+
+font-size: 20px;
+font-weight: bold;
+background-color: grey;
+
+}
+*/
+
+
+footer{
+  margin-top: 20px ;
+	background-color: #e3e7ed;
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+  font-family: Lucida;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+.table{
+
+
+
+}
+
+.user-nav {
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.user-nav a {
+  font-size: 20px;
+}
+
+.user-nav a:hover {
+  color: #333333;
+  text-decoration: none;
+  text-shadow: #ffffff;
+}
+
+.user-nav ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+.master-form {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+  background-color: rgba(234,229,229,0.57);
+}
+
+.master-form p {
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.master-form h3 {
+  font-size: 30px;
+  padding-top: 50px;
+  margin-bottom: 0px;
+}
+
+.master-form input {
+  margin-top: 0px;
+}
+
+.form {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#ingredientsList {
+  margin-top: 10px;
+}
+
+
+

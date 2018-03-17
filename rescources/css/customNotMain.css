@@ -1,0 +1,86 @@
+
+/*body {
+    background-image: url("MainPageBackground.jpg");
+		width: 100%
+		height: 100%
+}
+*/
+body {
+  margin: 0px;
+  background-color: #FFFFE0;
+  font-family: 'Quicksand', sans-serif;
+	background-image: url("FoodScrollBackground.jpg");
+	background-size: 100% 850px;
+
+	}
+	
+h1{
+  font-size: 55px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+
+
+}
+
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+	
+p{
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 40px;
+  /*border-style: solid;
+  border-width: 1px;*/
+  margin-bottom: 50px;
+
+  
+}
+
+
+
+.carousel-indicators {
+  bottom:400px;
+}
+
+.carousel-control {
+    z-index: 10;
+    top: 2%;
+    width: 30px; // no more gray thing
+    font-family: 'Arial', Arial, sans-serif;
+}
+/*.carousel-control.left,
+.carousel-control.right { background: none }
+*/
+.carousel-inner > .item > img {
+  width:1000px;
+  height:450px;
+  margin-bottom: 0px;
+  
+}
+
+
+
+footer{
+  margin-top: 20px ;
+	background-color: #e3e7ed;
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+  font-family: Lucida;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+
+
+}

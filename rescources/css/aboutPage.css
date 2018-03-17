@@ -1,0 +1,52 @@
+
+
+body {
+	margin: 0px;
+  margin-top: 100px;
+  background-color: #FFFFE0;
+  font-family: 'Quicksand', sans-serif;
+	background-image: url("../images/FoodScrollBackground.jpg");
+	background-size: 100% 850px;
+
+	}
+	
+h1{
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+h2{
+  margin-top: 10px;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: black;
+
+}
+
+h3{
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+	
+p{
+  margin-top: 35px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 35px;
+  /*border-style: solid;
+  border-width: 1px;*/
+  margin-bottom: 70px;
+  background-color: white;
+ 
+}
+
+

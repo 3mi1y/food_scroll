@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+	margin-top: 40px;
+  background-color: #FFFFE0;
+  font-family: 'Quicksand', sans-serif;
+	background-image: url("../images/FoodScrollBackground.jpg");
+	background-size: 100% 850px;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+pre {
+    font-family: 'Quicksand', sans-serif;
+    white-space: pre-line;
+}
+
+.block {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  background-color: #d1d1d1;
+  width: 50%;
+}
+
+.sliders {
+  margin-top: 50px;
+}
+
+.viewRecipes {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-top: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgba(234,229,229,0.57);
+}
+
+.viewRecipe {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-top: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgba(234,229,229,0.57);
+}
+
+.user-nav {
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.user-nav a {
+  font-size: 20px;
+}
+
+.user-nav a:hover {
+  color: #333333;
+  text-decoration: none;
+  text-shadow: #ffffff;
+}
+
+.user-nav ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+.master-form {
+  margin-left: 10%;
+  margin-top: 100px;
+  margin-right: 10%;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+  background-color: rgba(234,229,229,0.57);
+}
+
+.master-form p {
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.master-form h3 {
+  font-size: 30px;
+  padding-top: 50px;
+  margin-bottom: 0px;
+}
+
+.master-form input {
+  margin-top: 0px;
+}
+
+.form {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#ingredientsList {
+  margin-top: 10px;
+}
+
+#pre-tag-format {
+  width: 70%;
+}
+
+.header {
+  margin-top: 10%;
+  background-color: rgba(234,229,229,0.57);
+  width: 70%;
+  padding: 20px;
+}
+
